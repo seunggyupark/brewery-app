@@ -15,8 +15,4 @@ Fermentation & Packaging Data: https://docs.google.com/spreadsheets/d/1n7YGzq-dc
 
 
 
-Summary: This project was to digitize and automate systems at the brewery I worked at. It uses Google Apps Script to run the logic, AppSheet to collect data (a code-free tool for making apps), and AppSheet then stores the data in Google Sheets. Features report automation, task management automation, processing fermentation, cellar, brewing, packaging, lab, and sensory data.
-
-
-
-Explanation: AppSheet stores data in a google database which I can perform CRUD style operations on using Google Apps Script. Not a real database system, but I did not know what that was at a time. Works well for this application however.
+**Summary:** This project was to digitize and automate systems at the brewery I worked at. It uses Google Apps Script to run the logic, AppSheet to collect data (a code-free tool for making apps), and AppSheet then stores the data in Google Sheets. Features report automation, task management automation, processing fermentation, cellar, brewing, packaging, lab, and sensory data.
