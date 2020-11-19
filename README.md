@@ -1,5 +1,4 @@
-# PLEASE READ
-# This is the first application I made when I had little knowledge of programming. This is not a reflection of my ability but a reference to what my first project was. I did not even know what an object was at the time of building this!
+# PLEASE READ: This is the first application I made when I had little knowledge of programming. This is not a reflection of my ability but a reference to what my first project was. I did not even know what an object was at the time of building this!
 
 **Demo**
 
