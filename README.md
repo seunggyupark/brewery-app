@@ -4,7 +4,7 @@
 
 • Internal management tool at my previous role for managing beer production lifecycle and data.
 
-• Reliable solution that created the ability to easily manage the production process by digitizing the paper procedure, saving >$75,000 annually. Included automation for repetitive tasks as well.
+• Reliable solution that easily managed the production process by digitizing the paper procedure, saving >$75,000 annually. Included automation for repetitive tasks as well.
 
 **Demo**
 
