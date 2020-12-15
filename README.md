@@ -1,5 +1,9 @@
-# PLEASE READ: This is the first application I made when I had little knowledge of programming. This is not a reflection of my ability but a reference to what my first project was. I did not even know what an object was at the time of building this!
+# PLEASE READ: This is the first application I made when I had little knowledge of programming. This is not a reflection of my ability but a reference to what my first project was.
 
+**Description** 
+• Internal management tool at my previous role for managing beer production lifecycle and data.
+
+• Reliable solution that created the ability to easily manage the production process by digitizing the paper procedure, saving >$75,000 annually. Included automation for repetitive tasks as well.
 **Demo**
 
 **User Apps**
